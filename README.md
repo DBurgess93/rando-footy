@@ -13,18 +13,18 @@ code . # Open this folder in your text editor
 ## Fetch an activity with the Bored API
 
 #### endpoint
+
 https://www.boredapi.com/api/activity/
 
 #### documentation
-http://www.boredapi.com/documentation#endpoints-random
 
+http://www.boredapi.com/documentation#endpoints-random
 
 ## Goal
 
 - Click the button
 - Fetch an activity using fetch
 - Insert the activity into the DOM
-
 
 ## Specs
 
@@ -35,3 +35,5 @@ serve
 ```
 
 Open [`localhost:8000`](http://localhost:8000) in your browser.
+
+colors: #DEC5E3 #CDEDFD #B6DCFE #A9F8FB #81F7E5
